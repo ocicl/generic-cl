@@ -1,0 +1,10 @@
+* generic-cl
+
+Generic function interface to standard Common Lisp functions
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/alex-gutev/generic-cl.git   |
+| commit  | f1779ef  |
+| systems | generic-cl |
+|---------+-------------------------------------------|
+
