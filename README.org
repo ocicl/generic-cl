@@ -4,6 +4,6 @@ Generic function interface to standard Common Lisp functions
 
 |---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | source  | git:https://github.com/alex-gutev/generic-cl.git                                                                                                                                                                           |
-| commit  | c007b9c                                                                                                                                                                                                                    |
+| commit  | 2566ba8                                                                                                                                                                                                                    |
 | systems | generic-cl generic-cl.container generic-cl.lazy-seq generic-cl.map generic-cl.util generic-cl.comparison generic-cl.sequence generic-cl.math generic-cl.iterator generic-cl.set generic-cl.collector generic-cl.arithmetic |
 |---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
